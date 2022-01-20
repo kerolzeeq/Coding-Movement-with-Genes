@@ -14,7 +14,7 @@
 
 
 ## There are 2 separate goals that I want the AI to achieve :
-1. Who can survive the longest on the blue platform (time) ⌛
+1. Survive the longest (time) ⌛
 2. Travels the most (distance)🛣️
 
 ## **Constant parameters**
