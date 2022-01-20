@@ -19,7 +19,7 @@
 
 ## **Constant parameters**
 - Population : 100
-- 10 Seconds for each generation
+- 5 Seconds for each generation
 
 ## **Findings**
 1. **Surviving the longest**
