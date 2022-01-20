@@ -28,3 +28,6 @@
 - The population would end up moving to where there is more ground to avoid falling into the lava.
 ###
 ![alt text](https://github.com/kerolzeeq/Coding-Movement-with-Genes/blob/main/ssCMG.png)
+
+
+Youtube video : https://youtu.be/bFwnr_piDQE
